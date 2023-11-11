@@ -8,7 +8,7 @@ El contenido del archivo no tiene que ser autentico pueden utilizar cualquier no
 El modelo es similar al que se desarrollo en clase, el objetivo del trabajo es familiarizarse con los comanos de git y poner en practica 
 lo aprendido en clase. 
 
-## Requesitos
+## Requisitos
 
 1. Hacer uso de los siguientes comandos:
 
