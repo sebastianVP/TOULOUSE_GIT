@@ -5,7 +5,7 @@ Crear una carperta con su nombre y dentro crear el archivo biografia.txt
 
 Este archivo biografia debe contener la informacion de nombre, profesion, hobbies y plato favorito.
 El contenido del archivo no tiene que ser autentico pueden utilizar cualquier nombre.
-El modelo es similar al que se desarrollo en clase, el objetivo del trabajo es familiarizarse con los comanos de git y poner en practica 
+El modelo es similar al que se desarrollo en clase, el objetivo del trabajo es familiarizarse con los comandos de git y poner en practica 
 lo aprendido en clase. 
 
 ## Requisitos
